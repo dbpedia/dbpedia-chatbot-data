@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# EXAMPLE: ./split_csv data/dbpedia-discussion-archive.csv discussion
+split -l 1000 $1 data/processed/$2
