@@ -1,6 +1,12 @@
+# encoding: utf-8
+
 import csv
 import mailbox
 import re
+
+import sys
+reload(sys)
+sys.setdefaultencoding("ISO-8859-1")
 
 def clean_content(content, subject=False):
     if subject:
@@ -13,7 +19,7 @@ def clean_content(content, subject=False):
             content = content[:sign_index]
 
     content = re.sub(r'<.*?>', '', content, flags=re.MULTILINE) # Remove HTML Tags
-    content = content.replace('&nbsp;', '').replace('&quot;', '') # Removing Whitespace characters need to be extended to others as required
+    content = content.replace('&nbsp;', ' ').replace('&quot;', "'").replace('&amp;', '&') # Removing Whitespace characters need to be extended to others as required
 
     # content = re.sub(r'http\S+', '', content, flags=re.MULTILINE) # Removing HTTP Links. Need to decide if this is needed
     content = re.sub(r'^>.*(\n|$)', ' ', content, flags=re.MULTILINE) # Remove Reply Sections
@@ -21,6 +27,7 @@ def clean_content(content, subject=False):
     #content = content.replace('&gt;', '').replace('&lt;', '').replace('&eq;', '')  # Comparison Characters
     content = content.strip().replace('\n', ' ').replace('\r', ' ').replace('\t', ' ') # Removes newlines, tabs etc.
     content = re.sub(r'\s{2,}', ' ', content, flags=re.MULTILINE) # Remove extra whitespaces
+    # return content.encode('utf-8').strip()
     return content
 
 def get_message_body(message):
