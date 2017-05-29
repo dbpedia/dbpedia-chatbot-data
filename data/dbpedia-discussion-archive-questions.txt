@@ -1,0 +1,1856 @@
+Retrieve page in other language
+Is it possible to find if the article corresponds to a location ??
+Complete set of DBpedia resources?
+Importing Wikipedia
+Old DBpedia dumps and names across versions
+how to import OWL-ontology to repository
+DBpedia RDF filenames
+About editor permissions for mappings.dbpedia
+dbpedia 3.8 in Maven repo
+election results
+Infobox onversions from wikipedia to dbpedia - some questions
+Open Everything Berlin, Saturday 6th December 2008
+DBPedia Server RAM
+Abstract Extractor
+dbpedia ontology version 3.9
+missing information in dbpedia live updates
+Editor rights in DBpedia for our Semantic team at Eurecom
+Lookup not working
+Spaql endpoint and post method
+failing link to DBpedia resource containing non-ASCI chars
+Out of memory problems on dbpedia
+Sparql endpoint: Virtuoso 42000 Error SQ200
+Person dataset from SPARQL endpoint beyond 10K
+Help with Dbpedia Extraction Framework
+Disambiguation links dump
+WWW07 paper: Yago: A Core of Semantic Knowledge - Unifying WordNet and Wikipedia
+Apple Disambiguation
+write permission on dbpedia.org
+broken links in live.dbpedia.org
+Brackets in Property Uris
+Commit changes
+IEEE/ACM UCC 2015: Cloud Challenge
+loading dbpedia 3.7 files into local repository
+Corrupted Keys in DBpedia
+DBpedia Lookup Install
+=?utf-8?q?filtering_Stanford_Named_Entity_Re?= =?utf-8?q?cognizer_output_--_spotlight_or_not?=
+OPEN POSITION: Move to Berlin, work on DBpedia (1 year full-time contract)
+"property is mapped but not found in the template definition"
+Removed Cleanded Wikipedia Category Class (CWCC)
+Generate nerd_stats_output.tsv from nerd-stats.pig (Hugo Silva)
+People in dbpedia
+Movie review using dbpedia, questions
+Bls: problem with iri
+More on DBpedia and YAGO?
+A local DBPedia live
+About the infobox extraction
+live updating update?
+Duplicate entries in DBpedia dumps
+deal with large ontology file
+Bls: extraction problem
+linking conceptnet to Dbpedia, Yago
+three problems with sparql-queries
+Extracting Wikipedia References
+"Test this mapping" broken on mappings wiki
+IEEE-CSCEET2017== Submission Deadline has been EXTENDED to March 1, 2017!
+United Nations FAO geo-political ontology & dbpedia (was: how to register a RDF into DBPedia)
+Use of Fallback Languages for Query Results
+Content negotiation's response is terse
+foaf:img and file location
+Inconsistent results from sparql queries
+Ignored templates
+DBpedia Extraction Framework - Problem downloading latest dumps
+Semantic Wikipedia work at Shanghai Jiao Tong University?
+Add data to dbpedia in Virtuoso
+dbpedia sparql : how to change upper execution time limit : Virtuoso 42000 error
+The first template that occurs in a wiki article defines the class of the entity
+Invitation for Participation
+"Resource" missing from Ontology OWL
+Semantic Publishing/Nanopublications and DBpedia URIs
+WikiXMLDB
+Wikipedia templates
+=?utf-8?q?Why_many_mails_are_coming_from_thi?= =?utf-8?q?s_address!!!?=
+2 Doctorate and 1 PostDoc position at AKSW / Uni Leipzig
+query with no result??!!
+Unicode characters
+extraction scripts in distribution
+OKE2016 - Open Knowledge Extraction Challenge @ESWC2016
+Ontology browser in the MappingTool, no results.
+probably incorrect mapping to schema.org from MusicalArtist
+dbpprop:redirect dbpedia:About:_URI_scheme
+Mapping Creation Sprint
+dbpedia down - bif:contains at fault?
+DBpedia in 2011 - Opening up to the community
+URIs with "<" in them confusing Virtuoso and Jena
+Links from DBpedia to Geonames
+Missing properties after mapping extraction
+invalid variable types in sparql query results ?
+Questions about DBpedia and SPARQL
+Six properties for a person's date of birth
+@devs: Please add Indonesian namespace
+Important News Re. IBM Watson and DBpedia
+=?utf-8?q?Arabic_chapter?=
+DBpedia Data Quality Evaluation Campaign
+DBO ontology problems
+six properties for a person s date of birth
+Querying wiki/dbpedia for presidents' ages at inauguration
+Adding multiple domains/ranges properties into DBpedia ontology
+How to turn a local chapter live ?
+Slovak DBPedia mappings
+selecting data for a given resource / page
+Introducing Sztakipedia
+Virtuoso 22023 Error SR008
+Using Dbpedia Lookup.
+pagelinks not loaded @ dbpedia.org?
+Dbpedia and Freebase
+SSL certificate for dbpedia.org
+RDFEasy: scalable Freebase SPARQL queries in the AWS cloud
+See wikipedia updates
+Link rel/rev lower case
+Wikinomics: How Mass Collaboration Changes Everything
+queries with large number of answers
+No page links in Live?
+Semantic Web Journal Special Issue on Quality Management of Semantic Web Assets (Data, Services and Systems)
+Hello - I hope I'm in the right area and sorry, if I'm not
+Portuguese extraction (messed up abstracts)
+Possible bug with dbpedia Drug UNIIs
+N-Triples syntax errors in DBpedia
+Referencing DBpedia resources in blog entries
+Abstract Extraction Error
+The case of the missing abstracts
+Reproducing the Spotlight Demo
+Article : Setting up a DBPedia SPARQL mirror with Jena
+DBpedia mappings
+UTF-8 issues on DBP-live?
+Release an intuitive query system for DBpedia
+dbpedia URI change in retrieved resource files
+sparql limit and offset max value
+11th Reasoning Web Summer School (RW 2015) - "Web Logic Rules"
+DBpedia Mappings: Request for editor rights
+Dbpedia-discussion Digest, Vol 17, Issue 4
+English Words
+No result for Category-label in English
+Geocoordinate issue on de & fr dbpedia
+=?utf-8?q?dbpedia-links=3A_Recommendation_fo?= =?utf-8?q?r_predicate_=22rdrel=3AmanifestationOfWork=22_=3F?=
+a few questions about dbpedia extraction
+type of http://dbpedia.org/page/Bachelor_of_Arts
+java.util.NoSuchElementException: key not found: dct:subject
+Current state of the SPARQL endpoint
+Deploying dbpedia on other wikis
+live dbpedia dumps
+SPARQL endpoint / Full Text Search / Problems with International Characters
+Error: HttpException: 500 SPARQL Request Failed
+How to get DBpedia updated dump for different languages
+Underdeveloped areas of DBpedia (was Wiki account activation)
+Confusion about DBpedia international datasets and chapters
+Dbpedia query inconsistency?
+Galician resources are not available at the wikidata endpoint?
+Dewey and other subject classification codes - can these be extracted?
+(Website) How to add Datasets in DBpedia+ Website improvement
+Text Categorization with dbpedia
+=?utf-8?q?=5BDBpedia-developers=5D_Best_loca?= =?utf-8?q?l_DBpedia_live_mirror=E2=80=8F_setup=3F?=
+Mappings.Dbpedia on SMWCon?
+FGCT 2016
+DBpedia Local Storage
+problem creating a mapping
+Extracting person information from dbpedia
+2918232 - SELECT using REGEX fails with Error SR580
+Data Formatting Issues
+Lookup not running http://localhost:1111.
+Mvn install problems
+DBpedia citations & references challenge
+DBpedia.org Down
+setting up dbpedia endpoint- isql use
+Problems with the mappings site
+Botticelli painting : trouble with ( ) in URIs, and more
+Question about image mappings to foaf:depiction
+Creating the special dumps
+Search DBpedia.org - Bad Gateway Workaround
+DBpedia - Querying Wikipedia like a Database:Improveddataset released.
+Leveraging the dbpedia inter-language links to improve DBPedia coverage
+what areas of knowledge has the best qualityand coverage in dbpedia?
+Extract specific properties of a resource
+7th DBpedia Community Meeting in Leipzig - 15/09/2016
+Mapping types at the instance level
+Error in running the Dbpedia Extraction Framework on Oct dump of Enwiki
+question about dbpedia and freebase interlinking
+OWL DatatypeProperty URLs..
+DBpedia Spotlight v0.6 Released (Text Annotation with DBpedia)
+DBpedia Hack Night in Copenhagen
+Invalid N-TRIPLES output?
+New languages requests for the mappings wiki
+Places, Languages and count -- with SPARQL?
+Russian labels in DBpedia OWL
+Special chars in property URIs (was: DBpedia 3.0 Dataset problems.)
+Mappings namespace requests
+questions about licenses
+Problem with person classes
+image url hash keys incorrect?
+Accuracy of coordinates in dbpedia/wikipedia & freebase
+suggest to fetch all data about films of dbpedia
+Query regarding dbpedia 3.7 dump
+DBPedia Arabic Support
+Remaining problem with URI access?
+setting up DBpedia on local machine?
+what is void:statItem in VoID description of Dbpeida?
+A detailed analysis of the ArchitecturalStructure portion of the DBpedia ontology, proposals included
+Generate nerd_stats_output.tsv from nerd-stats.pig
+Two questions on Spotlight
+Metadata for publicdomainworks.net
+DBpedia Nationality Property for American President
+Issue with table mappings
+a question
+problem with SPARQL query
+Inconsistencies in dbpedia extracted data / Group of templates
+SEMANTiCS 2014 - Networking for Funding (till Sept. 3rd, 10 am)
+City type is missing for capital cities
+Wiki Mapping
+Connecting 30k tags to URI's
+2nd LIDER Hackathon Preparation call: today at 14:00
+The trouble with DBpedia
+Extraction Framework (Questions arised from the mapping marathon)
+Wikipedia and AI: An EvolvingSynergy
+An offence to the Queens
+Ampersand in dbpedia returned URI breaking Jena code
+New policies for CF* postings in DBpedia mailing lists
+SPARQL - Auto-completion
+Dublin Feb 9 - 3rd International DBpedia Community Meeting
+Types Returned
+DBpedia support, mailing lists and newsletter
+Virtuoso Update Time-frame
+SOPA, Wikipedia, and dbpedia
+Querying multi-valued properties
+Dbpedia Spotlight indexation: train a linker based on similarity-thresholds
+.Net code cannot read HTTP responses from DBPedia
+Fetching selective data from DBpedia
+mapping statistics doesn't work
+Non-deterministic SPARQL results
+Update: Virtuoso LOD Cloud Hosting Instance
+Looking for topics in dbpedia
+RTIS 2016
+How to build a meaningful Taxonomy from Wikipedia Categories?
+Exception when querying DBpedia via JENA+SPARQL
+The Semantic Smart City Workshop (SemCity-13)
+Getting started with importing dbpedia into Sesame
+How to coerce revenue in sparql
+Browser requests to sparql endpoint
+little data missing - city-class
+Equivalent properties
+Mapping the DBPedia's citations to existing bibliographical data
+bif:contains and Film
+Awaits proposal review
+Several loose notes to DBpedia staff
+Contribute to the SEMANTiCS Workshops and the DBpedia Day
+Ultimate Wiktionary?
+Oracle is a RDBMS and a wise person
+How to find the type of a concept?
+looking for co founder
+DBpedia dataset published using Hypernotation
+Getting Freebase onto the Semantic Web
+Install error for DBpedia extraction framework
+The problem about API of virtuoso JDBC3.0
+fields on dbpedia but not on wikipedia infobox template?
+Semantic Web Journal: Special Issue on Multilingual Linked Open Data (MLOD) 2012
+Using DBpedia resources as skos:Concepts?
+Best practices for large RDF dumps, was: Wikidata RDF export available
+geonames to dbpedia mappings
+Extract page statistics from wikipedia
+Bls: Abstract extraction problem
+Feedback for new website and communication grouo
+The LAST INVITATION for CSCEET2017, Beirut, Lebanon - April 26, 2017
+Categories without labels in dbpedia 3.2?
+Last Mile: The 9th International and Interdisciplinary Conference on Modeling and Using Context (CONTEXT 2015)
+Extended deadline for applying PhD positions of WDAqua project
+up-to-dateness of DBpedia content
+DBpedia datasets and their encodings
+Bart Simpson chalkboard gags on Dbpedia
+primary reference key for resources
+Version 0.2: Add your links to DBpedia workflow
+(no subject)
+limited sparql query results?
+From filepage to specific file?
+Problems to run a local mirror of the lookup service.
+ORDER BY modifying not just order
+Meaning of the property wikiPageOutDegree
+INTECH 2016
+mappings with semantic mediawiki
+DBpedia to Wikidata sameAs links
+DBpedia preview could not be found
+dbpedia extraction framework on windows problems
+DBpedia Spotlight - Text Annotation with DBpedia Resources
+dbpedia participation
+question regarding retrieval of news organisations
+query: transaction timout
+DBpedia ontology mapping wiki permission
+extracting properties
+/resource view displaying RDF
+hosting bg.dbpedia.org
+Computing Technology and Information Management Conf.
+Problems with dumps in Information Extraction Framework
+dbpedia-links: Recommendation for predicate "rdrel:manifestationOfWork" ?
+GND extraction
+NLP dataset is corputed
+Submission Deadline has been EXTENDED
+Fetching images from Wikipedia
+dbpedia -> Freebase mappings, a cautionary tale
+Question Answering over DBpedia
+dbpedia lookup service unavailable
+Open Position for Graduate Fellowship in Semantic Web Technologies at CNR-STLAB
+Newbie questions: Sparql and dbpedia
+DBPedia mapping extractor for resources not available in English
+Website improvement
+Typo in yago_links.nt
+Invitation for participation in ICCTIM2014-Dubai, UAE
+getting graph of data
+wikipedia errors and dbpedia refresh period
+problem accessing the DBPedia cluster
+sex or dbo:gender or foaf:gender?
+Wikipedia lists in DBpedia?
+Semantic GIS site based on dbpedia, freebase, openstreetmaps, etc.
+DBpedia 3.7 released, including 15 localized Editions
+Mapping server down
+Too many redirects?
+How is the paper an interface, gateway, to the web of data?
+Indonesian DBpedia
+making a query more efficient?
+Test this mapping
+where are dbp:ethnicGroup ?
+Disambiguation dataset in 2015-04 dump
+Mapping rights request & alternate spellings query
+How to query "is of"
+rdf resource file errors when processing
+Virtuoso configuration
+reminder: open positions
+Sparql Queries and dbpedia:Category:foo
+DBpedia server is down
+Unstable answers from DBpedia SPARQL endpoint?
+yago types in dbpedia
+local dbpedia invirtuoso.
+Inverse properties
+URL encoding of '(', ')' and '#'
+Convert wikipedia pages of a language
+IEEE-DINWC2016, Manchester, UK
+Dbpedia-discussion Digest, Vol 74, Issue 28
+Face-to-Face meeting at ISWC
+BBC Things
+Arabic Chapter
+Issue with properties mapping
+Best paper award -Sepublica, ESWC workshop
+alternative name =
+Datasets loaded into the endpoint?
+How do you fix typos in DBpedia ontology?
+DBpedia 3.7 dumps .nt file encoding issues
+Memento compliant DBpedia Archive with Triple Pattern Fragments support
+dbpedia-lookup-index
+Geographical Coordinates
+Getting one value from a list values of a predicate
+Deadline extension: Workshop on Ontology and Semantic Web Patterns (7th edition) - WOP2016 @ ISWC 2016
+dbpedia + disambiguation pages
+Text Searching in Virtuoso / 2 questions
+ImageExtractor config
+Extraction problems while parsing wikipedias.csv
+Freebase provides data dumps
+MusicBrainz DBpedia Links
+DBpedia v39 extraction problem.
+how to get most recent data from dbpedia
+DBpedia categories; URL shortening
+DBpedia as Tables 2016-04 release
+MapReduce expert needed to help DBpedia
+Advancing the DBpedia ontology
+Mappings server down?
+Policy for CF* postings in the DBpedia mailing lists
+Dump-based Extraction error
+Help with iOS and accessing DBPedia
+=?gbk?q?ask_help_from_a_dbpedia_programmer?=
+How dbpedia extractor decide the type or class of article?
+framework lexicalization extraction
+problem with query
+=?utf-8?b?QSBQaC5ELiBTdHVkZW504oCZcyBDUlkg?= =?utf-8?q?for_Help?=
+How to extract profession of a person?
+Better dbpedia fbase mappings (alpha test!)
+Post-extraction script help
+LD4KD2015 - ECML/PKDD workshop on Linked Data for Knowledge Discovery
+Non-well-formed RDF/XML
+Get Resource name and Category
+Double underscore pattern
+DBepdia @ RuleML 2015 and Recommender Systems for the Web of Data Challenge
+DateTime where Year expected (e.g. Stephen_Fry entry)
+Introduction to GSoC 2017
+More information about how persons are extracted into persondata_en.nt, more about topical_concepts_en.nt instance_types.nt
+Use stub templates' mapping to detect resource type
+Querying DbPedia to get country datas
+default limitation for fetching triples from dbpedia endpoint
+keyword search not working anyomore ?
+GSoC: Topical Classification
+nested templates; multiple classes
+Why Infobox_Geopolitical_organization (eg United_Nations) is mapped to Country?
+Videogame release dates
+DBpedia updates/refreshes from wiki data
+DBpedia content negotiation
+Fw: dbpedia/snorql and dbpedia query through jena
+multi language extraction support
+Queries on live.dbpedia.org return results with colon encoded as %3A in Category URLs
+User contributed data to DBpedia, was: Add your links to DBpedia workflow version
+ACM TiiS special issue on Big Personal Data in Interactive Intelligent Systems
+How To Do Deal with the Subjective Issue of Data Quality?
+TripleCheckMate OS release
+Please unblock me...
+Share your Internationalized SPARQL queries (apache log files)
+English Wikipedia full dump finished for thefirst time since 2006
+No more link from a dbPedia resource to non-english wikipedia pages?
+UMBEL v 1.00
+DBpedia and Protege
+Clarification AW: DBpedia 3.2 release, including DBpedia Ontology and RDF links to Freebase
+Problems running extraction framework
+Use of Fallback Languages for Query Results (Stephen Hatton)
+Number of infoboxes
+Extracting region/state information for populated places
+DBpedia Live changesets stuck
+Issue with the live datastream
+GSoC 2016: Inferring Infobox Template Class Mappings From Wikipedia and WikiData
+how to get IntermediateNodes ("sub-objects") of a resource
+Junior Researcher Position / Ph.D. Position in Semantic Web Technologies
+Fact ranking game (creation of ground truth)
+Instance from dbpedia
+Bad SPARQL results from DBPedia endpoint?
+Page #'s, Revision #'s and PND?
+schema.org ontology property not found error when editing mappings
+Extracting DBPedia Framework
+instance_types and infoboxes
+Dutch mappings
+DBpedia Quality Improvement: Please report bugs!
+Querying datasets
+EKAW2016 - Deadline extension for research, in-use and position papers
+GSoC - ListExtractor
+which version data set you used?
+Announcing OpenLink Virtuoso Open-Source Edition v7.0.0
+dbpedia Write-up
+Query parsing error
+Odd entries in instance-types_de.ttl.bz2, instance-types-en-uris_de.ttl.bz2, and instance-types-en-uris_ru.ttl.bz2
+Constructing the right SPARQL query
+Missing wikiPageWikiLink's at sparql endpoint
+Moving DBpedia mappings wiki to RDF - feedback needed
+Fake Conference Fake: WORLDCOMP and Hamid Arabnia
+wiktionary.dbpedia.org online - Linked Data, SPARQL and Dumps
+Get the number of users who have edited a particular article
+Bls: Problem in creating Indonesian Chapter
+DBPedia
+GSoC List-Extractor
+License DBpedia as CC-BY-SA? was: license update at the Wikimedia Foundation
+DBpedia - how to contribute
+Download the current version of DBPedia Datasets, in JSON / XML
+Pagelinks dataset
+GSoC 2016 -- DBpedia and Topic Modelling project announcement
+Next DBpedia release
+SNORQL code/installation
+AdministrativeRegions appear when querying for Countries.
+Best method for local DBpedia live mirror
+videos on dbpedia
+URL encoding in libcurl C++
+Linked Data Meetup London - Program and Sign-Up
+ESWC 2014 Students Participation Support
+Duplicates in skos_categories_en.nt
+MyStrands Links Music Recommendations To Wikipedia Info
+Download server down and wikipedia
+WikiCompany dataset
+WordNet download link is 404
+Idiots guide to dbpedia Part II
+DBpedia Live-Updates (changesets)
+Keynote: Larry Masinter (Adobe) at Sepublica
+Incorrect information in one of the dbpedia entity
+DBpedia Relationship Finder Release 2
+DBpedia and my own wiki
+cleaning up countries; SPARQL weirdness
+Editor Rights
+The Last Invitation for TAEECE2014-Malaysia
+Errors while adding labels and comments to OntologyClass
+Question about DBpedia Years and some suggestions for dealing with Taxa
+infobox mappings
+Extraction Framework Use.
+DBpedia Lookup
+querying via sparql & ranking
+dbpintegrator: add / delete order
+List of dumps that are in Virtuoso?
+Table Extractor project
+Issues about the DBpedia as Tables data
+Dutch Language mapping?
+Airpedia (was Slovak DBPedia mappings)
+Warnings from DBpedia 3.0 N-Triples file.
+DBpedia as Tables release 2014
+public sparql endpoints not working
+dbpedia data exports contain data not found in the endpoint
+DBpedia FR Historic Data Test
+Update the CreateFreebaseLinks based on the new Freebase RDF dump format (#25)
+Mapping problem for class Film
+DBPedia Live Updates?
+Dbpedia Lookup Exact String Matches Don't Appear First In Results
+DBpedia @ GSoC 2017
+Announcement: DBpedia Faceted Browser and DBpedia User Script released
+What is a computable document?
+Odp: DBpedia ontology - predicate constraints
+'2007-01-01T00:00:00+01:00' is not a valid value for datatype http://www.w3.org/2001/XMLSchema#gYear
+Dbpedia for dummies?
+Video: Using the Ontology2 Edition of DBpedia 2016-04
+Interesting use of DBpedia to train NLP tools
+Announcing Virtuoso Open-Source Edition v5.0.12
+Trouble with XML RDF Data
+Conditional mapping not working?
+Error Unknown language
+Issued loading dbpedia 3.2 in virtoso
+DBpedia live: issues with classes and properties
+object property extractor should check rdfs:range
+Broken Turtle for David Bowie?
+Several labels and abstracts for the same article?
+Dbo vs Dbp
+Italian DBpedia 3.4. release
+Questions about dbpedia data
+Odp: Hello DBPedia!
+Problem with geo-coordinate extraction in DBpedia
+Data inconsistent and missing
+=?utf-8?q?How_to_contribute_to_the_project?= =?utf-8?b?Li4u?=
+Pagelinks missing from the triple store atdbpedia.org?
+Clarification regarding the instance type files
+Semantic Bookmarking Service: Faviki
+distributed-extraction-framework and distributed extraction in general
+DBpedia: limit of triples
+dbpedia lookup service
+DBPedia freshness
+Multilingual labels in dbpedia
+ordering of multiple values for an object in Virtuoso
+opencyc link accuracy
+I18N Redirects / was: AW: DBpedia 3.7 released, including 15 localized Editions
+How i can extract
+Writing parser rules for Generic Extractor
+Internationalization Committee
+DBpedia needs you! Mappings Sprint
+Update
+IEEE-CyberSec2016, United Kingdom
+DBtax questions
+The Last Invitation for ICCTIM2014-Dubai, UAE
+sameAs links in DBpedia 3.7 dump
+Distance in DBpedia
+Query regarding dbpedia dataset
+recipie ingreients
+Query logs of DBpedia
+DBpedia Service down due to maintenance work ...
+No german/i18n redirect files
+Issue in Maven execution
+Categories present in article_categories_en.nt but not in page_links_en.nt ?
+Italian short / long abstract problem
+Missing DBpedia resources ?
+DBpedia returns Turtle but says Content-Type is text/plain
+dbpedia 3.5.1 busts my importer script
+Class syntax: underscores vs. camel case
+Let's say goodbye to skos:subject...
+sameAs links to Freebase
+Mapping question
+DBpedia SPARQL endpoint down!
+Problem with SPARQL query returning 0 results
+logos
+http://dbpedia.org/data/United_States.rdf
+Q: dbprop:name attribute meaning
+"Typical" Queries against DBpedia
+data sets for language versions
+Incomplete resource descriptions
+Mining Wiki Lists
+Stale data in DBpedia Live?
+it.dbpedia.org DNS
+Examples of using Dbpedia
+OntologyClass addition and dbpedia live
+Escaping of titles
+How to unsubscribe
+Changes in the string format
+Uploading dbpedia in Sesame 1.2.6 nativerepositories
+2nd call - Challenge: Doing Good by Linking Entities
+4th International Conference on Model & Data Engineering (MEDI 2014): Last Mile
+Gsoc Project
+The difference between infobox downloads
+SPARQL DBPedia.org Query
+Multilingual properties in the new DBpedia release
+Dbpedia Spotlight x Dbpedia Lookup
+Jena with eclipse JEE
+SNORQL explorer
+Proxy Probelms with DBpedia URIs
+The Future Of Freebase in RDF
+dbpedia liveupdates
+Generating DBpedia Lookup index for specific data
+Software license
+Strategies to download subsets of DBPedia
+=?utf-8?q?Very_simple_DBpedia_query_with_puz?= =?utf-8?q?zling_result?=
+DBpedia ontology - full list of classes
+Reading William Shakespeare using dbpedia
+Stale Data Question
+StrepHit 1.0 Beta Release
+dbpedia/snorql and dbpedia query through jena
+equivalent class specification
+Paper: Autonomously Semantifying Wikipedia
+Problem with download configuration file
+LDIF: A tool to process DBpedia dumps (blatant advertising)
+List of persons from Wikipedia
+Updated dbpedia Dataset released!
+Caching headers
+DBPedia Ontologies
+Postcode Data
+Search uri by foaf:page
+Split the articles dataset
+Setup Local DBpedia Version
+Questionable DBO-DOLCE equivalence mappings
+dbpedia uri encoding policy: conflating URIrefs and URIs?
+DBpedia content not valid RDF/XML
+Mapping Statistics (Questions arised from the mapping marathon)
+Searching for dates with bif:contains?
+total number of triples and instances in current DBpedia version 3.9
+Easiest way to translate mappings?
+'Multilingual' dbpedia URIs 200 OK and URIs
+502 Proxy Error on SPARQL Query
+editor's right
+Geo coordinates in German dbpedia
+Out of memory sparql endpoint
+The Untyped
+IEEE-CSCEET2017 [Submission Deadline is Approaching]
+Formatting Dbpedia query
+Existing entities vs General entities
+ImageExtractor issue
+Wikidata granularity and Linked Data
+Mappings submission failure
+Submission deadline in 1 month, Journal of Web Semantics: Special Issue on Stream Processing
+DBPedia Live - changesets and dumps
+ontology issue
+Newbie: Ranges, non-link values, comparison to freebase, license
+Specifying topics in FOAF?
+DBpedia Data Quality Evaluation Campaign - Deadline approaching: 9th Dec
+dbpedia and the Objectsheet
+SPARQL from DBPedia looking for remote knowledge (from my website)
+what are avaiable categories at dbpedia.org/resource/category:
+SAVE-SD 2016 Extension for position, poster, and demo papers
+dbpedia as a semantic repository
+Deadline extension: Special Issue of the International Journal On Semantic Web and Information Systems on the Ubiquitous Semantic Web
+Label issue for the Paris resource
+Mappings for template redirection explanation
+Concept hyperlinks missing on the endpoint
+Please describe more files; topical_concepts is not quite correct
+Different data results for URI from SPARQL endpoint
+DBPedia Lookup
+Local acces to virtuoso endpoint error
+**deadline extension** LD4IE @ISWC2013: Linked Data for Information Extraction
+getting images from a wikipedia article
+Deadline extension: Special Issue of the International Journal On Semantic Web and Information Systems (IJSWIS) on the Ubiquitous Semantic Web
+corrupted 3.6 dump
+"title" question
+Problems with LinkedData access to DBpedia
+SEMANTiCS 2016, Leipzig, Sep 12-15, Extended Submission Deadline July 1, 2016
+What is the difference between DBpedia categories and Yago types ?
+sparql probs
+Deadline Extension - July 18th - Workshop on "NLP & DBpedia" at ISWC 2013
+Can not connect to http://dbpedia.org
+Access to Movie-Awards Data for another OpenSource Project
+Major Development re. SUMO, Yago, and Wordnet
+property domain and range values
+How can I extract information from wikipedia comparison tables?
+Initiating Romanian branch for DBPedia
+bogus data.nytimes.com owl:sameAs links...
+unknow chars
+Missing mappings in extraction_framework
+BDM Calculation
+how to register a RDF into DBPedia
+How does DBpedia live extractor work?
+Getting started with DBPedia
+Writers in the german DBpedia
+Index of terms
+The LAST INVITATION for ICDIPC2016, Beirut, Lebanon - April 21, 2016
+Sparql-query fetching uri from Danish Wikipedia URL
+Commons & pictures mapping
+How to get involved
+resource redirects
+French version of dbpedia-live
+using DBpedia locally
+YAGO classes in dbpedia?
+generation of rdf:type triples for general classes and non-ontology classes
+Sepublica 2014
+DBpedia SPARQL endpoint is down
+BUG - character with code 8211
+=?utf-8?q?Feedback_needed_=28Was=3A_Re=3A_GS?= =?utf-8?q?OC_2016=3A_=C3=9F-Testing_of_lookup_and_Completion_of_th?= =?utf-8?q?e_Tasks=29?=
+Problem with DBPedia extraction
+Inconsistency Feedback from DBpedia to Wikipedia What's disjoint in the dbpedia ontology?
+Double-encoding on SPARQL endpoint results?
+Help with Getting started and already available answering engine projects
+Querying for ontology definitions in SPARQL
+Invitation for participation in TAEECE2014-Malaysia
+Hello World
+DBpedia license
+Updated DBpedia Lookup
+Questions arised from the mapping marathon
+Inquiry for contribution
+Infobox Extraction Questions
+Making Your LInked Data Discoverable
+Non English Articles (with no Englishequivalent)
+DBpedia srategy survey
+Update: Guides for using Microsoft PivotViewer with SPARQL endpoints
+Computing the "open" dbpedia KB
+Languages as resources : launching lingvoj.org
+Airpedia resources for the mapping sprint
+Making human-friendly linked data pages more human-friendly
+Are you guys pinging the semantic web?
+Please help test the German Chapter Live Endpoint
+Problems with Italian Ontology Infobox Types
+3rd International Workshop on Consuming Linked Data (COLD2012) co-located at ISWC2012
+Simple Infobox_Disease query
+German Geo Coordinates Missing
+template parsing bug
+The LAST extension for IEEE-ICeND2014 deadline!
+WordNet links
+Mapping Wikidata properties to DBpedia ones
+How to best choose and use dbpprops for public use in radial tree layout app
+dbpedia-owl properties sparlq endpoint
+DBpedia 2015-04
+Finding related or similar entities in DBPedia
+2nd International DBpedia Community Meeting
+chembox?
+Error using import.sh for the abstract Extractor
+Lua scripting on Wikipedia
+Project announcement
+Special characters in IRI's > which encoding?
+Take 2: How To Do with deal with the Subjective Matter of Data Quality?
+Error with the PHP mediawiki
+Importation process error
+issue with abstract export
+Domain Names ru.dbpedia.org, wiki.ru.dbpedia.org
+DBpedia SPARQL endpoint
+1st Challenge on Question Answering over Linked Data (QALD-1)
+Quick Tweak to DBpedia Real-time Edition
+Next DBpedia release ?
+Your message to Dbpedia-discussion awaits moderator approval
+Latvian DBPedia
+YASGUI
+Area code madness in DBPedia
+Shock Troopers of the Edit Wars?
+Help for a SPARQL query on dbpedia
+Getting the transitive closure of categories
+connections
+DBPedia Lookup: Service Temporarily Unavailable
+Slow Query Initially
+You and your projects at OKCon
+Getting started
+Foreign language Yago classes
+Problem with the MySQL installation script
+Encoding error in german labels file
+Summary of Association Hour in Leipzig
+Where is that "raw" wikipedia infobox dataset?? ...and...
+dbpedia SPARQL Endpoint error
+Data set
+Looking for churches in Paris - skos:broader transitivity and dbpedia categories
+Warm greetings and a few issues to resolve on the DBpedia wiki
+Dbpedia Lookup Improvements Introduction and Wikipage Link
+: DBpedia Viewer
+DBpedia-based RDF dumps for Wikidata
+Relationship between a category (skos:Concept) and the matching resource
+variable bindings in SPARQL query
+mapping server problems
+An error occur , I could not solve it
+How to get contributors of wiki articles
+NER for Czech (was dbpedia for Czech language)
+DBpedia Spotlight 0.7
+years BC problem
+LAST MILE: 24th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2015)
+Upcoming Conference: DIPECC2013 - Dubai
+DBpedia user, who are you?
+Problem with Sparql Endpoint
+Namespace for Welsh (cy)
+Broken Pages for German Cities
+DBpedia-Cyc linkage
+DbPedia is down
+200 OK and URIs
+On Spanish DBpedia
+not climate related bug in the arctic ocean
+can't find Goethe using new faceted browser.
+DBpedia 3.2 release - Can we get a moremanageable download? One tar file?
+Online DBPedia Lookup service is down
+Apple Disambiguation revisited
+open source scholarly communication @Sepublica2013
+dbpedia infoboxes not in sync
+Reminder: Linked Data Meetup London, 24 February
+Inconsistent result sets
+dump encoding
+Open Knowledge Conference (OKCon) 2009: London, 28th March 2009
+Scholarly communication, what, where and why
+GeoData, specifically: dbpprop:coorDmsProperty
+Just when you thought it was safe... [2000+ "countries"]
+Metaweb has published Freebase data dumps
+Federated queries in various DBpedia endpoints
+inclusion database with dbpedia
+=?utf-8?q?Hello?=
+easy mistakes: using /page URIs in sparql queries
+CORS used to work
+limit and offset switched at lod endpint?
+Guidelines for Mapping (Questions arised from the mapping marathon)
+Invalid XHTML+RDFa in DBpedia?
+Alternate language versions of data
+dbpedia mapping user - editor rights
+Missing properties (updates) in DBpedia Live
+interrogating freebase and dbpedia from the same query
+how to connect input to wikipedia extraction frame work?
+DBpedia Lookup: restricting by class?
+Downloads page languages
+Ontology Infobox Types graph
+Virtuoso Open-Source Edition, Version 6.1.1 release
+Fake Conferences CSCI and WORLDCOMP of Hamid Arabnia
+RDF1.1 support - Need for mappings contributions
+Cluster could not connect to host
+rdf:type skos:Concept Problem
+Querying DBpedia with Arabic Triples
+5th Open Knowledge Conference (OKCon 2010)
+Service Temporarily Unavailable
+Sparql endpoints and dbpedia
+DBpedia HTTPS Support?
+Issues getting extraction framework to run on Windows
+A modeling issue?
+Bad Turtle, No Cookie
+FW: Query time when using POST vs GET
+DBpedia 3.8 Abstract extraction problem
+GSoC 2013 DBpedia + Spotlight joint proposal (please contribute within the next days)
+DBpedia dump extraction problem
+Spotlight question
+Lucene Index and Disambiguation
+HttpException: 509 Bandwidth Limit Exceeded
+help with a sparql query
+DBpedia session in Workshop Multilingual Linked Open Data for Enterprises
+Announcement: DBpedia 3.1 Release
+dbpedia data on lodview
+Playing with SPARQL endpoints
+wikipedia articles using intermediary template
+creating owl:sameAs
+Extraction framework french tutorial
+collecting the List of cities per country from DBpedia
+about dbpedia2:birthPlace
+What do we call high-level categories in the dbpedia ontology?
+DBpedia Open Text Extraction Challenge - TextExt
+Open Calls - Formal Ontologies meets Industry, Rule Challenge, Reasoning Web Summer School
+how to inference?
+Ghassan Alhamoud has added you as a contact on Mendeley
+Instance types for languages where it's currently unavailable
+Editor rights
+simple LOD browser for a a demo system
+License of dbpedia content
+How the property occurrences is counted
+Use core 3.9 in sbt with scala 2.10.2
+DBO RailwayLine definition
+Travis CI failing on pull requests
+Trouble with my use cases
+http://mappings.dbpedia.org/ is gone?
+linked geo data?
+About Giuseppe's message (TellMeFirst APIs available for developers)
+Problems with the YAGO hierarchy
+What happened to the US cities inhttp://lookup.dbpedia.org/?
+Links in Infobox and DBPedia
+Where is Russian version of DBPedia?
+Google Squared
+topical_concepts is gone
+What's wrong with this SPARQL query?
+Errors inTesting of the Arabic mapped templates
+Missing DBpedia URIs?
+URIs vs. other IDs (Was: New user interface for dbpedia.org)
+software/algorithms for parsing infoboxes?
+The last extension for ICCTIM2014 deadline!
+Contd: RelFinder - Version 1.0 released
+Dbpedia lookup results with the word ''Category".
+Ontology Classes
+Announcing OpenLink Virtuoso, version 7.2.0!
+how to get all "?topic rdf:type dbpedia-owl:ChemicalCompound" ?
+Core Datasets in other languages
+Announcing the Ontology2 Edition of DBpedia 2015-10
+infobox_properties_en.nt file of DBPedia 3.8
+DBPedia.org/sparql response time issues
+RDF URI References in DBPedia N-Triples dump
+New Entity Descriptor Document Formats
+=?utf-8?q?=5BANN=5D_The_K=C3=89KI_Workshop_2?= =?utf-8?q?016_=40ISWC_-_deadline_1st_of_July?=
+get only certain data out DBpedia 3.8 Downloads
+Korean labels
+Mappings between YAGO and DBpedia relations and classes
+social participation data and ontologies in DBpedia
+Time outs
+Disambiguating nutritional facts infoboxes
+Edit permission request
+DBpedia on local Virtuoso server
+Ontology file?
+dbpedia.org sample query not working
+Release date for infobox films not parsed
+Getting the hyperlink text of the Wikipedia articles' "External Links"
+bif:contains text search treated as a prefix
+Airpedia resource
+How to use mappingBasedExtractor without *.xls files?
+Semantic Wikipedia
+Any limit in number of queries per day ??
+Contd. RelFinder - Version 1.0 released
+URI encoding scheme for dbpedia.org
+Dbpedia-discussion Digest, Vol 48, Issue 4
+A problem with categories datasets in DB3.8
+Wiki account activation
+About classification, inference and the BDpedia Ontology
+Population density mapping broken
+premarure end of file error
+IEEE/ACM UCC 2015: Last Mile for Posters & Demos and Doctoral Symposium
+code of conduct (was: Your subscription request)
+Backslash encoding for URIs
+musicbrainz.org sameAs statements
+Question about dbpedia extraction framework
+Deadline Extension: I-SEMANTICS 2013 - 9th International Conference on Semantic Systems 2013
+dump process problem (tables.sql not found)
+Fw: request
+Birthplaces query
+How do I query wikilinks?
+Test with DISTINCT and ORDER BY
+Using Lookup Service.
+Mappings statistics not working
+Strange text strings in wiki data dump
+How to query "is of" by SPARQL
+DBpedia Lookup lucene index - download link?
+Redirects resolved in DBpedia 3.8?
+decimal and grouping separators doubt
+A clear case of a missing label
+Oct17 - Bay Area DBpedia Meetup 2017
+DBpedia ontology - predicate constraints
+PhD Scholarship Opportunity on Visualisation of Expressive Ontologies at Monash University, Australia
+Postcode data
+Extraction Framework Parallelisation
+Graph URI - dotNetRDF
+Wikipedia category browser
+Wikipedia disambiguation pages
+how to use ConstantMapping
+DBpedia Lookup service license
+WebSchemas, Schema.org and W3C
+problems with Virtuoso Sesame Provider
+Non English Articles (with no English equivalent)
+Improper or inconsistent data after extraction
+Your subscription request
+infobox mappings case sensitive?
+Virtuoso Instance and LOD Cloud Hosting Update
+MLOD results and reviews
+DBpedia Outgoing Links submission
+problem with file wikipedia_links_ru.nt.bz2
+Source of VIAF identifiers (and LCCN, ...)
+Sparql query for getting parent YAGO categories of more than 1 level
+URI's / IRI's in a multilingual dbpedia
+Japanese DBpedia SPARQL endpoit
+Extracting German noun forms
+Mappings (hr)
+dbpedia URI not consistent with Wikipedia URI
+Virtuoso Open-Source Edition, Version 6.1.3
+Draft paper submission deadline is extended: EISWT-10, Orlando, USA
+Question about run dbpedia Extraction-Framework in windows 7
+property/batAvg vs property/battingAverage
+Two Administrative Issues
+Checking out the DBpedia Extraction Framework
+Bad request exception when getting urispaces of DBpedia
+How long is DBpedia going to be down ???
+Build Failure during abstract extraction
+Help with my first dbpedia select - Simpsons Episodes almost working
+Mapping-based Properties (Cleaned)
+Announcing Virtuoso Open-Source Edition v 6.1.0
+Invitation to prospective researchers to organize one day workshops during the ICADIWT 2017
+English Wikipedia uses Wikidata for person data
+Linking to the Norwegian Company Registry
+DBpedia 2014 on AWS
+Mapping editor rights
+Labels and comments on mappings wiki
+A request for the creation of the Arabic Chapter of DBpedia
+Missing rdfs:label
+dbo:Sound
+.bz2 problem
+Announcing OpenLink Virtuoso Open-Source Edition v5.0.0
+DBpedia properties
+Loading dbpedia into Virtuoso, bz2 problem
+Freebase, Wikidata and the future of DBpedia
+Wikidata (was: Lua scripting on Wikipedia)
+DBpedia - Querying Wikipedia like a Database:Improved dataset released.
+New user interface for dbpedia.org
+GSoC: Programming languages
+circular relationships in SKOS categories?
+Dataset containing article names present in a dbpedia category
+GND in DBpedia
+DBpedia (EN) - how many triples?
+Some rdfs:labels are missing from articles_labels_pt.nt.
+Wikimedia Foundation Elections 2009
+=?utf-8?q?Norwegian_=28bokm=C3=A5l=29_infobo?= =?utf-8?q?x_extraction?=
+=?windows-1252?q?a_friendlier_entrance_=96_f?= =?windows-1252?q?inding_a_topic=27s_page?=
+Jena-Virtuoso
+SPARQL user defined function
+Using other languages infoboxes
+Some help with the lookup service.
+GSoC Project Announcement
+Disambiguation dataset
+Querying and connecting data about architecture education
+dbpedia ontology properties not getting extracted reliably from en Infobox : Film template
+Stable DBpedia IRIs
+dbpedia arabic chapter
+creating a dbpedia mirror
+Interesting DBpedia mashup: gwannon.com
+How frequently is DBPedia updated?
+Live: Can the wiki be updated with an install tutorial
+Wikilink URI's need the resource name to have its first letter capitalised
+what is a data paper?
+how to use two ConditionalMappings?
+Retrieve attributes given an dbpedia ontology class
+DBpedia Live End points return different datafor same query
+=?utf-8?q?semantic_in_URIs=2C_was=3ARe=3A__d?= =?utf-8?q?bpedia-links=3A_Recommendation_for_predicate_=22rdrel=3Amanifes?= =?utf-8?q?tationOfWork=22_=3F?=
+Are there any datasets about companies? ( DBpedia Open Data Initiative)
+Page link data
+Loading URLs with special characters
+DBpedia 3.4 Datasets now online ...
+Invitation to contribute to DBpedia by improving the infobox mappings + New Scala-based Extraction Framework
+Raw extraction data for non-English editions
+DBpedia datasets in the main release
+full text search
+Dbpedia lookup results in diferent languages.
+DBpedia Lookup: Keyword Search vs Prefix Search
+public sparql endpoint is not working
+counting places
+language-specific mappings on the ontology infobox properties
+What exactly mean create Dbpedia lookup index
+would like to show show my colleagues DBpedia
+What happened to the US cities in http://lookup.dbpedia.org/?
+Subjects without labels in the domain of rdf:type
+nlp data
+dbpedia Write-up (was "Official" dbpedia Name?)
+Invitation for participation in ICeND2014-Beirut, Lebanon
+Lookup service results for "building"
+I mapped, now what?
+SPARQL query with dbpedia-owl:birthDate
+I-Semantics deadlines approaching (research/application papers and Linked Data Cup)
+sparql query
+build error in dbpedia release 3.5.1
+Contd: Large companies all have exactly 151, 000 employees?
+Importance of the vote, e.g. Content Negotiation Wikimedia Foundation Elections 2009
+Mapping and redirected infoboxes
+Sitemap for DBpedia 3.1
+Dbpedia game
+Dbpedia-discussion Digest, Vol 15, Issue 2
+releasing stable version to Maven repository
+SEMANTiCS 2016, Leipzig, Sep 12-15, Extended Submission Deadline May 10, 2016
+Powerset: Semantic extraction from Wikipedia based on natural language
+Links from DBPedia to Musicbrainz
+Cleaner abstract extraction
+help
+Odp: Odp: probably incorrect mapping to schema.org from MusicalArtist
+DEADLINE EXTENSION: Linked Data for Information Extraction LD4IE2016 at @ISWC2016
+dump problems
+DBPedia RDF Data - Only English
+ORDER BY and utf8 (accents in portuguese names)
+XML header information in SPARQL results
+MapReduce expert needed to help DBpedia [as GSoC co-mentor]
+Academic Vacancies - CS Dept - University of Cyprus
+Wikipedia dump corresponding to DBpedia 3.7
+Invalid Turtle syntax in Freebase dumps
+Different results depending on values of the LIMIT clause
+DBpedia URL Shortener and persistence
+DBpedia Class Hierarchy
+Regarding category pages in DBpedia - How to get total number of pages in a category
+How do I run the tests?
+Bls: Can not download Mapping_id.xml
+United Nations FAO geo-political ontology & dbpedia
+Odd foaf:name values
+Dbpedia Ontology
+Missing dataset(s)
+How to extract Slovenian Category labels and skos?
+Finding information on dbpedia
+Problems accessing to ontology classes' properties or testing the ontology mappings
+Question about missing dependencies in DBpedia Extraction Framework
+Lookup's Keyword Search API is returning no results
+no results from dbpedia when accessed thorugh script whereas trough browser the results are available.
+Fixing Unicode issues in SPARQL.
+Ontological trouble with cities...
+DBpedia down?
+Dbpedia Lookup Service down
+Namespace
+DBPedia Lookup - We will fix the problem
+DBpedia Quality Improvement: Please reportbugs!
+Resources and their classes
+Announcing Virtuoso Open-Source Edition v 5.0.13
+New DBpedia Overview Article Available
+extracting audios files and intermediate nodes
+Support for 304 not modified
+DEADLINE APPROACHING: ACM TiiS special issue on Big Personal Data in Interactive Intelligent Systems
+=?windows-1252?q?=84When_it_comes_to_data=2C?= =?windows-1252?q?_90=25_is_worse_than_nothing=93?=
+Category membership extraction bug?
+URI lookup
+question on statistics
+Hi. How with ld_dir_all ( , , ) load dbpedia in local machine, also how in original dbpedia
+DBpedia to schema.org
+Redirects on dbpedia-live include MediaWiki_talk URIs
+Resources types
+Dbpedia-discussion Digest, Vol 98, Issue 7
+DBpedia 3.8 released, including enlarged Ontology and additional localized Versions
+5th DBpedia meeting in California (Nov 2015)
+Filter the results of Lookup
+JSON format
+Wikipedia Knowledge: Everything Leads to Philosophy
+=?iso-8859-1?q?Norwegian_=28bokm=E5l=29_info?= =?iso-8859-1?q?box_extraction?=
+problem creating a mapping - again.
+document 1568634
+"Attention data" in DBpedia?
+Editor rights for dbpedia mappings
+limitation of offset in sparql request ?
+Missing Ancient Greek with type Language
+DBPedia mappings wiki access
+DBpedia live updates
+Approaching Deadline March 10: EBW2013: Thailand
+questions about the extraction process
+Questions about dbpedia extraction framework
+DBpedia 3.3 will be live momentarily
+Dbpedia-discussion Digest, Vol 98, Issue 2
+bug #1744807: Complex infobox values
+How to get extended summary
+DBpedia ontology property mappings
+Another question about conversions from wikipedia to dbpedia
+Current OWL File?
+scala extraction framework for Russian wiki
+Indian-summer school on Linked Data (ISSLOD 2011)
+Companies
+How can i exit DBpedia mailing list ?
+About the license over external links
+Date-Data
+DBPedia Spotlight server healthchecks
+Obtaining Category Hierarchy for a given resource
+FYI: What is an ORCID ID?
+Attribution to thumbnail creators
+Missing file at http://noc.wikimedia.org/conf/langlist - can't run "generate-settings"
+DBpedia Data Quality Evaluation Campaign - Results and Winner
+Editor rights for mapping
+Parentheses in PrefixedName
+using CombineDateMapping to combine 3 fields
+Integrating RML in the DBpedia extraction framework
+new DBpedia mirror available
+Lookup service and wiki categories
+ISWC Semantic Web Business: Lessons Learned from the Trenches. EXTENDED DEADLINE: July 22
+Latitude - Longitude issue
+Performance issues when setting up local DBpedia live
+Triple counts for DBpedia chapters & Dbpedia as a whole
+DBpedia-flickr Photo Wrapper
+Invalid character in infobox-mappingbased-loose.nt when trying to load DBPedia in virtoso
+Setting up dbpedia endpoint
+XMLStreamException when querying
+Wikidata and DBpedia canonicalized datasets
+Querying the Arabic DBpedia
+Large amounts of missing georss:point data
+New Mapping Chrome extension
+Template mappings and ignore list
+DBpedia SPARQL error when applying JENA
+Specifying my own XSLT stylesheet to use with DBpedia SNORQL results?
+Easier simple searches
+Obtaining confidence values associated with Dbpedia facts
+Ubicomp 2015 workshop: New frontiers of Quantified Self
+[setting up DBpedia on local machine?]]
+Dbpedia 3.8 extraction. Problem
+Deadline approaching for Wikimania 2016
+Distributed DBpedia Extraction (Open Beta)
+yago categories in German dbpedia
+IP blacklist, DBpedia dump 3.7 and Openlinksw Sparql endpoint
+List of all article titles?
+DBpedia Mappings Statistics
+Machine readable property mappings
+Credits page: please acknowledge Wikipedia / MediaWiki
+help : All data in CSV format for a particular entity
+Dependency on extraction-framework
+Skos subject properties are deprecated
+Announcing Virtuoso Open-Source Edition, Version 6.1.2
+DBpedia as Tables release
+DBpedia Extraction Framework Dutch disambiguation data set
+Inconsistency in DBpedia?
+What is the difference between resources types ?
+My first SPARQL test
+Statements missing from dump?
+Announcing OpenLink Virtuoso, Open-Source Edition, v5.0.8
+Announcing OpenLink Virtuoso, Open-Source Edition, v5.0.7
+Identification of the same resource across many domains
+6th DBpedia Community meeting / Feb 12th in The Hague
+RFC for a DBpedia import process
+Feedback for new website and communication group
+DBpedia Mashup using XQuery
+Question about rdf:type for dbpedia URIs as displayed on dbpedia mobile
+Announcing OpenLink Virtuoso, Open-Source Edition, v5.0.10
+:Basekb Updated to 2012-11-04
+mappingbased_proopeties_en.nt full of erors
+DBPedia dump - Categories (Skos) - other languages ?
+Will the real URI stand up? [dbpedia vs wikipedia vs the world]
+Require insights
+The DBpedia Ontology Survey
+Query problem
+Add your links to DBpedia workflow version 0.3 (help wanted)
+Merging dbpedia with local ontology
+Missing package !
+Ontologies in DBPedia's OpenLink iSPARQL instance
+Can't find the web interface for dbpedia
+Some thoughts about cities and buildings
+Concept Identifiers
+Point missing from geo_coordinates download?
+DBpedia Lookup Service back online!
+Updation of Wiki Page
+dbpedia ontology
+Reference facts in DBpedia
+triple bug with funny characters in urls
+Just when you thought it was safe...
+DBpedia/Linked Data
+Question about classes/properties returned by queries
+Password recovery problem on mappings wiki.
+Collaboration talks Wikidata - (Dutch) DBpedia
+Query based on type
+URI / IRI again...
+Dbpedia-Freebase raw dump of conditional probabilities
+Wikipedia extraction framework
+procedural suggestions for mapping wiki
+Get list of Wikipedia URLS for crawling
+sameAs wikidata help
+Small patch to dbpedia lookup
+Airpedia vs DBpedia entity counts
+Wordnet instances to DBpedia resources mappings
+Feedback Session Thu 13:30 for the Association (Funding and DBpedia Improvement)
+Problems with URI access?
+Can not download Mapping_id.xml
+Announcing OpenLink Virtuoso, Open Source Edition, v6.1.4
+how do I get all people and their external links?
+Template not showing in statistics?
+No images in some language chapters.
+ANN, the new DBpedia Association
+Large companies all have exactly 151, 000 employees?
+DBpedia Extractors not deterministic?
+Fetching song and movie related information
+Why are sparql results incomplete?
+CONSTRUCT Query
+Problem with DBPedia SPARQL endpoint
+'Person' disambiguation to verify Identity over the web
+DBpedia and Yago
+enquiry on wikipedia extraction frame work
+Geo data description properties
+DBPedia - URI for properties & classes
+questions about DBpedia ontology...
+Please Urgent Question Need answer !!!!
+run dbpedia on local windows machine
+mlist archives
+Several fully funded PhD/postdoc positions in Ontologies/Data Management at TU Dresden
+Ontology maintenance
+ICEEE2013 - IEEE Poland Section
+Cleanded Wikipedia Category Class (CWCC) Hierarchy
+Please give me edit permission of Mappings Wiki
+Decoding the Freebase Quad Dump
+Zotero, Wikipedia and Reference Citations
+Directly sampled importance score for DBpedia
+Two fully funded PhD positions on Answering Questions using Web Data
+Linked Data
+Problems counting all the instances of classes and subclasses
+dbpedia tutorial
+Unable to load all triples for wikipedia pagelinks
+Querying for keywords while discarding accents
+5th International Workshop on Consuming Linked Data (COLD2014) - colocated at ISWC2014
+Local Mirror Setup of English DBPedia
+Virtuoso .db file of DBPedia
+Comparing two nodes on dbpedia
+DBpedia Updates Integrator
+Fetching types for a large number of concepts
+SAXParseException when testing DBPedia mappings
+Mappings of DBpedia properties in different languages
+Last Mile: 5th International Conference on Web Intelligence, Mining and Semantics (WIMS 2015)
+Last Mile: 7th Int. Conf. on Developments in eSystems Engineering (DeSE 2014)
+The Lovable ListOf
+Tim O'Reilly on dbpedia
+a dbpedia extraction issue
+Using DBPedia for Country Data
+Dbpedia from Protege
+Mappings Wiki instance clone
+Problems connecting with Dbpedia Lookup web service.
+SKOS:Concept
+Test email to list
+After Update Queries Stopped Working
+Where is there a SCHEMA DIAGRAM and description of the database that I can access via SQL?
+Incorrect concept's type
+Literals written as URIs in the .nt files
+Dealing with UTF8 IRIs in HTTP Sparql Queries
+Mapping of dbpedia types to freebase types
+Very simple DBpedia query with puzzling result
+Bug with double infoboxes
+problem with ASK queries at http://dbpedia.org/sparql ?
+The International Conference on E-Technologies and Business on the Web (EBW2013)
+DBPedia: http://dbpedia.org/resource/Marcos_Escobedo
+dbpedia voiD bug?
+Constant numeric "id" for Wikipedia pages
+Importing required RDF Dbpedia files
+Linking content from DBpedia to my content (was: Please Urgent Question Need answer)
+Infovore 1.0 released
+Hardcoded properties in infobox templates
+Obvious wrong entity types
+flickr wrapper and image copyright ownership
+a query with count returns different results from the same query without count
+Dereferencing URIs using Jena.
+Problem for extract data
+HTTP response
+Free Linked Open Data Webinar on DBpedia Spotlight
+Kudos and basic statistics
+Loading full DBpedia dataset, timings and approach
+Wrong type in RDF & SPARQL view
+Invalid character in infobox-mappingbased-loose.nt when trying to load DBPedia in virtos
+Help needed with DBPedia Live mirror setup on Mac OS X
+Missing downloads
+dbpedia 3.4 import virtuoso 5.11, some date is missing
+minor problem w/ faceted search web interface
+Introducing Gazetiki (geographical database)
+defining new class in dbpedia ontology
+query dbpedia to find linked phrases
+Slovenian Dbpedia mappings
+Missing properties for a resource from live.dbpedia.org when compared to dbpedia.org
+Danish persondata
+SPARQL endpoint down?
+: DEADLINE EXTENSION for 1st Workshop on Question Answering over Linked Data (QALD-1)
+Dbpedia Live latest updates
+Mapping a template without key=value properties
+Dbpedia and facets
+BIND in DBpedia SPARQL endpoint
+Content Negotiation for DBpedia
+How many nodes in the Virtuoso cluster?
+set up Virtuoso to host DBpedia 3.4 locally
+Hello
+a label issue
+FILTER NOT EXISTS error on http://dbpedia.org/sparql
+I-SEMANTICS 2013 - Abstract Deadline Today
+MySociety's MaPit service: provides containing areas for any geotagged UK subject
+dbpedia deutschland corpus
+Dbpedia-discussion Digest, Vol 93, Issue 5
+Empty type for DBpedia Spotlight annotation
+From instance to class
+Paper on using NLP techniques to populate Wikipedia infoboxes with information from article texts
+working with dbpedia
+=?windows-1252?q?DBpedia_in_ReadWriteWeb=92s?= =?windows-1252?q?_Top_10_Semantic_Web_Products_of_2009?=
+Bls: Bls: Problem in creating Indonesian Chapter
+24 Million Broken Pagelinks
+filtering Stanford Named Entity Recognizer output -- spotlight or not
+compilation exception
+Getting german labels for large amount of URIs
+Freebase Links broken
+DBpedia Archive now part of Amazon Public Data Sets
+DBpedia Lookup PrefixSearch - Up again
+Extracting Causality from DBPedia?
+DBpedia-Live is down
+=?gb2312?b?SXMgeWFnbzJjbGFzcyBkYXRhc2V0IGZv?= =?gb2312?b?ciBkb3dubG9hZCBhIHJlZHVjZWQgZGF0YXNldKO/?=
+Fact Ranking Quiz
+GSOC 2016 Automatic Mappings Extraction & Upgrade Sweble Parser
+DBpedia Live questions
+What happened to the http://dbpedia.org website ?
+Date comparism error
+DBPedia resources - timestamp
+Problematic characters in XML SPARQL results
+What's going wrong with the Openlink LOD SPARQL endopoint?
+question regarding latest changelog
+Java client for Dbpedia?
+A New HTTP Status Code for Legally-restricted Resources
+Downtime for mappings.dbpedia.org server
+Dbpedia-discussion Digest, Vol 59, Issue 18
+DBpedia page on Wikipedia
+DBpedia Live End points return different data for same query
+SPARQL queries: how to optimize a search by literals?
+Extracting Date Information
+Chinese mapping
+Subclass instances not included in SPARQL result, shouldn't they be?
+Information on infoboxes in DBPedia
+Dbpedia-discussion Digest, Vol 52, Issue 1
+Last Mile: 8th IEEE/ACM International Conference on Utility and Cloud Computing
+DBPedia Query
+Issues Retrieving resource pages on dbpedia.org containing round braces ()
+Negation in Sparql
+Top subjects, predicates and objects in DBpedia
+JSON Format Errors
+Abstract extraction problem
+Work on DBpedia Release 3.9 starting + Mapping Sprint until June 30th
+Subject: SPARQL and DBPedia - getting the base url from a wiki page redirect name
+Link text from Wikipedia
+RDF Validator puts Freebase and DBpedia Live to the test
+PhD Studentship in Linked Data Integration for Social Science Applications
+Problem with extracted data
+SKOS property in DBPedia
+Extraction Framework does not work - DBpedia server down?
+AboutThisDay.com - a 'this day in history' style search engine powered by DBPedia
+Announcing: Search DBpedia.org
+how to parse infobox prop like dbpedia?
+"Official" dbpedia Name?
+Test data set - DBpedia
+One week left: 3rd Linked Data Mining Challenge at ESWC
+Bls: @devs: Please add Indonesian namespace
+Wiktionary DBpedia - Supported Data
+local dbpedia dump load to virtuoso server
+Dump extract of all company informations
+New user and namespace
+How xmls: and dbpedia: are related ?
+Proxy identification
+new dbpedia
+How do I consistently query dbpedia for programming languages by name?
+extraction problem
+Discovery_Communications missing in infobox dump
+Too many pages for uri
+Erroneous type names in v3.7 of yago_links.nt
+foaf:page / foaf:primaryTopic in DBpedia
+license update at the Wikimedia Foundation
+What version of wikipedia is the latest dbpedia (2.0) based on?
+How to save result of sparql query from dbpedia on a rdf file
+DBpedia toy
+how often is dbpedia live updated
+Virtuoso/DBpedia VAD missing data from .rdf files
+programmatic queries to DBpedia
+Offline ontology pages
+only articels with english equivalent are processed
+process dbpedia data
+Why super classes of external ontologies are not included in resources types ?
+president type
+page article has last modified timestamp
+=?utf-8?q?Using_DBPedia_for_Country_Data?=
+key integrity, data "halos", etc.
+Building a Chinese dbpedia SPRQL endpoint
+dbpedia mappings editors rights
+Dbpedia on local PC
+single place for dbpedia, freebase, yago, linkedmdb and others
+SKOS, Eponymous Categories, and Main Articles
+Wikipedia dump for the 2015-04 dbpedia dumps
+Multi-Type Named Entities Can not be found in English DBpedia
+Wiktionary extraction help
+BE lang in OntologyClass and mapping statistics
+Error in results for David Allen Green
+questions about dbpedia 3.7
+why dbpedia ontology is not complete
+Quepy, transform questions in natural language into queries in a DB language.
+DBpedia Live down for maintenance
+dbpedia ?Links only go into , not out?
+OKCon 2011 Submission deadline extended
+Idiots guide to dbpedia
+DBpedia Relationship Finder Release
+All birds are pink
+DBpedia - revised infobox extraction
+Mapping-based Property errors
+How to extract onProperty, someValuesFrom, intersectionOf for each class in OWL file
+Weaker coupling please in configuration...
+Fw: DBpedia look up not responding
+select distinct properties
+DL-Learner 1.0 (Supervised Structured Machine Learning Framework) Released
+Data Points in Australia coast
+Steps for Abstract extraction
+subject: paper deadline extension: Linked Data for Information Extraction LD4IE2015 - workshop at @ISWC2015
+missing properties in DBPedia stats
+How to find the order of updates?
+DBpedia and disambiguations
+Server performance
+Public sparql endpoint maintenance
+chemistry-related infoboxes
+Some fun reports
+DBpediaLive - Update rate statistics
+SPARQL returning different results to those available through http://dbpedia.org/resource/...
+Running the extraction
+Announcing OpenLink Virtuoso Open-Source Edition, Version 7.1.0
+Last Mile: The 10th IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob 2014)
+dbpedia redirects outside "en"?
+problem with maven-scalatest-plugin
+=?utf-8?q?Extracting_DBPedia_Framework?=
+Data reconciliation with DBpedia
+TemplateDB / TemplateAnnotation
+SPARQL Query following a resource redirect
+Contact for Polish
+paragraph detection in extraction_framework
+how to discover properties of classes?
+using localized uri
+Some italian mappings problems
+Consultation: DBpedia Spotlight Requirements
+Developing new Extractors for DBpedia was: SKOS, Eponymous Categories, and Main Articles
+Dumps Available, and Class syntax: underscores vs. camel case
+Freebase and dbpedia
+LESS - Content Syndication based on Linked Data
+Querying for chemical properties
+DBpedia 2015?
+DBpedia 3.5.1?
+help writing a query
+GSoC project idea
+Unsupervised Learning of DBpedia Taxonomy: DBTax
+DBPedia SPARQL query poblems
+How Do with deal with the Subjective Matter of Data Quality?
+Announcement: Navigational Knowledge Engineering (NKE) and HANNE
+Parsing wikipedia XML dump using extraction framework
+Sparql query vs. web interface
+WORLDCOMP Strikes Again for the Last Time
+noun-attribute lists
+DBPedia ontology - how to use it?
+for your information
+missing triples
+Are there any blank nodes stored in DBpedia?
+owl:sameAs values inconsistent with internal resource URIs
+lookup service refcount oddity
+Beginners Question
+Game based data extraction
+DBpedia 3.8 dump files
+query always times out
+Semantic Web Journal - Special Issue on Quality Management of Semantic Web Assets (Data, Services and Systems) - Only 1 month left
+Modelling Provenance of DBpedia Resources Using Wikipedia Contributions
+Missing links among categories?
+fields on dbpedia but not on wikipedia infoboxtemplate?
+occasional "syntax error" on public sparql endpoint
+what areas of knowledge has the best quality and coverage in dbpedia?
+=?utf-8?b?REJwZWRpYSBMSVZFIOKAmGNsZWFy4oCZ?= =?utf-8?q?_changeset_question?=
+Navbox templates
+getting countries with their labels
+Data returned on dbpedia.org/ontology/
+Querying data sets on dbpedia
+dataset access for .rdf resource files
+Has DBpedia an internal limit for the SPARQL OFFSET value configured?
+DBpedia lookup down
+editor rights - NL dbpedia.org
+Best practice mapping redirected templates?
+Query about DBpedia Data
+New languages available in the mappings wiki
+Issues obtaining extraction framework
+IEEE-ICDIPC2016 [Submission Deadline is Approaching]
+Bulgarian DBpedia images extraction
+Danish persondata II
+DBPedia down?
+Terms of Use?
+Urgent help
+DBpedia 3.3 - different versions of Geo data description
+can't create template mapping with bengali namespace...
+Bug (?) in SPARQL Explorer for http://dbpedia.org/sparql
+A military career is a Person?
+page links
+Redirects dataset available
+SPARQL: restricting DESCRIBE queries
+Dbpedia live - latest dump file - how to get one?
+JENA API ACCESS DBPEDIA
+Mapping types
+problem with iri
+Redirection
+Wikiopinion - Structured opinions
+500 SPARQL Request Failed: HttpException: 500 SPARQL Request Failed
+SERES ISWC workshop extended deadline -final
+Use of dbpedia-owl classes in other ontologies
+DBpedia+Spotlight accepted @ Google Summer of Code 2013
+live dbpedia and new/updated articles
+DBpedia SPARQL Endpoint and Transitive Queries
+Ampersands in URLs
+Gathering history of wikipedia categories
+categories with a comma in their names
+Official DBpedia Live Release
+Infobox information goes into abstracts
+Linked Data Cup - Deadline Extension until April 25th, 2012
+Duplicate triples logged as deleted at DBPedia-Live
+Semantic Web Journal - Special Issue on Quality Management of Semantic Web Assets (Data, Services and Systems)
+Hello DBPedia!
+Add your links to DBpedia workflow version 0.1 (this is also an RFC)
+GSOC applicant
+Project Announcement: Infobox Mapping
+DBpedia 3.0 Release Candidate
+LinkedUp Veni Competition: Linked and Open Data for Education
+semantic in URIs, was:dbpedia-links: Recommendation for predicate "rdrel:manifestationOfWork" ?
+Inconsistent Results: Set vs. Subset and Set - Subset
+Missing information in the Arabic chapter
+DBpedia Project Update and Freebase Interlinking
+DBPedia and thumbnail images
+Downtime estimate available?
+DBpedia to UMLS mapping
+How DBpedia Extraction Framework in Windows 7
+links to SUMO / Cyc
+Unexpected answer to simple query
+Help on forming this query (getting color names)
+Bls: creating owl:sameAs
+No abstract Field
+Links to Geonames
+Is this the right place to ask about weirdness with the faceted search interface for dbpedia?
+Throttled requests
+DBpedia English version - Local setup
+simple query problem
+relationship between properties of the same object
+WikiCompany alternatives?
+extract all properties in DBpedia
+Problem with building extraction-framework on local Ubuntu 12.04LTS
+is the ontogy-based data clean??
+Missing mappings by frequency
+HTML abstracts from the sparql endpoint?
+RelFinder - Version 1.0 released
+DBpedia false data, that's out of sync with Wikipedia
+DBpedia Lookup downtime - 6th August
+VIAF extraction?
+Incremental diff of DBpedia dataset
+Query not working any more on DBpedia Live
+Empty RDF files
+Aligning DBpedia ontology with the UDC
+Storing document path semantically.
+Announcing OpenLink Virtuoso Open-Source Edition v6.0.0
+which folders to index to get full English coverage?
+SPARQL endpoint line of code limit
+URLs that aren t cool...
+error installing dbpedia llokup service
+Dbpedia live updates has shrunk
+dbpedia-live produces unreadable JSON?
+gemeinde wappen wikipedia
+Announcing OpenLink Virtuoso, Open-Source Edition v5.0.9
+Collecting Metadata for PublicDomainWorks.net
+Datatype usDollar
+FW: Editor permissions for dbpedia mappings
+fixing up the sports classes in the DBpedia ontology
+Odp: probably incorrect mapping to schema.org from MusicalArtist
+WikiParser is not working but explicit SimpleWikiParser
+Updating local sesame database with Live dumps
+gender extraction from Wikipedia
+links to SUMO
+Mapping extractor generates only 1 triple when a property has multiple objects
+DBpedia Search (was The Semantic Web becoming real)
+is it possible to extract internal links and available languages with a query?
+editor rights
+Geographic Coordinates of Places
+Introducing the Ontology2 Edition of DBpedia 2016-04
+Problem in creating Indonesian Chapter
+DBpedia 3.2 release, including DBpedia Ontology and RDF links to Freebase
+:BaseKB is back
+DBpedia hosting burden
+Deadline Extension - 9th International Web Rule Symposium (RuleML 2015)
+Run from a Jar
+Pagelinks missing from the triple store at dbpedia.org?
+Hosting dbpedia jars on a public maven repo?
+Introduction for GSoC 2017
+Movie reviews using DBpedia
+DBpedia Spotlight v0.5 Released (Text Annotation with DBpedia)
+DBpedia 3.4 released
+Extracting audio files from Wikipedia (was: Multi-listen_item)
+Are pagelinks loaded in separate graph?
+Why is the OWL ontology in RDF/XML?
+DBpedia and Wikidata together
+Some images not found
+FW: The problem about API of virtuoso JDBC3.0
+Issues with Date Parsing in InfoBox extractor
+DBPedia Import
+SNORQL and SPARQL endpoints returning different results
+Wikidata-Freebase sameAs
+Dbpedia growth trends
+Inconsistent results from sparql queries (David Spacey)
+Name Clash - Error on mvn install of DBpedia Extraction Framework
+Link Dbpedia and freebase relations
+Mendeley Invitation Reminder
+Dbpedia-discussion Digest, Vol 44, Issue 1
+pageNumber is insufficient
+Fact Extraction from Wikipedia Text datasets released
+Data quality improvements / SF bug-tracker
+Infobox_properties and Influences
+Virtuoso 42000 Error CL
+Multiple template mappings
+sparql endpoint returns a 404???
+DBPedia IRI bug?
+:BaseKB EA 2 and basekb-tools now available
+Hanging (simple) SPARQL query?
+internal resource uri in german json data
+DNS Problem or Server down! Server move completed
+flickrwrappr: Resource Not Found
+etymology extractor
+sparql endpoint does not works?
+Geo data for German Wikipedia missing?
+getting DBpedia mappings to work with nested templates
+DBPedia Live Configuration
+Bad Wikipedia abstracts
+Removing LingPipeSpotter spotter
+Regarding using Article Text (besides templates and infoboxes) for extracting triples for DBpedia
+Edit permissions
+How many Wikipedia articles covered by DBpedia?
+receiving lots of sparql server 404 errors
+URIs in http://dbpedia.org/data/ namespace are 404?
+DBpedia Help and little gift script
+What could you do with free pictures of everything on Earth?
+Question about query
+Compiling extraction_framework problems
+Question
+How can I help?
+some invalid domain, range, subPropertyOf
+lost in DBpedia: can't find all the cities and states in US
+Reminder DBpedia Community meeting, 30th January at VU Amsterdam
+German government proclaims Faceted Wikipedia/DBpedia Search one of the 365 best ideas in Germany
+You still have a chance in TAEECE2014!
+Get a specific row given its rank from an ordered result in SPARQL
+How to use the "CategoriesClassesToArticlesExtractor" extractor
+dbpedia and Freebase
+query timeout error.
+Arabic chapter
+Log access to sparql queries
+content negotiation?
+DBpedia SPARQL endpoint gone down ...
+infobox property mapping from english to other languges?
+XML formats returned by SNORQL interface?
+Build problem
+GraphML Format
+SPARQL access to DB appears to be corrupted
+challenge us with your submission
+Lot's of eggs, but where is the chicken? Foundation of a Data ID Unit
+303 redirects oddity for URIs containing ":"
+dbpedia noise words list
+Character encoding in SPARQL queries
+FYI re. Quepy, transform questions in natural language into queries in a DB language.
+Running a periodic, automated batch of queries against a live DBpedia
+DBpedia, Yago Class Hierarchy, and Virtuoso Inferencing
+more dbpedia georeferenced datatypes than wikipedia georeferenced articles
+Apostrophe encoding
+Open Positions @ DBpedia
+Explore Google Summer of Code Projects
+Resouces in non-English
+Duplicate (lat, long) values
+Images in DBpedia now link back to Wikipedia
+Dbpedia-discussion Digest, Vol 42, Issue 10
+missing values in query results
+Literature on tracking changes in generic databases?
+regarding dbpedia endpoint
+Bug in image data (CSV file)
+Mashup examples
+SPARQL endpoint on local installation of the DBpedia extraction framework
+TBox Meshup: opengraph meets dbpedia and beyond
+Virtuoso/ DBpedia VAD wrong encoding in RDF/XML data
+DBpedia Editor Right
+DBpedia type labels
+Mappings wiki is back online
+Query regarding sameAs links in DBpedia3.8
+editing properties in mappings wiki
+How do install dbpedia on mediawiki under XP
+Download server down and wikipedia links de and fr truncated
+Retrieving data
+DBpedia SVN mailing list
+query producing duplicate results
+Announcing the release of the Wikidata Query Service
+Princesses: bump & grind?
+Installing dbpedia vad for virtuoso
+Semantic Search Evaluation and Gold Standard
+DBPedia ontology parsing
+dump file naming conventions and formats
+DBpedia Lookup PrefixSearch still down
+Evaluation on automatic domain/topic identification on Linked Open Datasets - Please Particpate
+Easiest deployment and querying of DBpedia without Amazon EC2 ?
+Downloads2014 Surface Forms do not work
+difference between dump files
+dbpedia.org down? (and up and down...)
+DBpedia SPARQL queries timing out at 1500 sec?
+Lists of values in Wikipedia infoboxes
+Dbpedia lookup service is down
+German version of 3.6 download files broken/truncated?
+Statistics on raw wikipedia infobox usage
+Extraction framework debugging with IntelliJ IDEA
+arabic dbpedia
+Gold Snapshot of :BaseKB a free download on BitTorrent
+travel wiki dataset
+Adding Mappings with an API
+Category URIs broken
+how to host URIs?
+likely URI error in Turtle output for http://dbpedia.org/resource/Buddy_Guy
+Ampersand in dbpedia returned URI breakingJena code
+SPARQL Endpoints returns 500 Internal Server Error on some requests
+Abstract parsing error
+shortabstract_en.nt: character encoding?
+Java exception
+e-Technologies and Networks for Development Conference , Lebanon
+Virtuoso 37000 error related to partitioning
+issues with iri encoding in linked data frontend
+Information Extraction using DBpedia
+Live and historic, help
+Strange reset of the liveupdates counter
+Optimizing full text searches in dbpedia in virtuoso
+Happy holidays from ISWC 2017 - important dates
+SOPA Blackout Vote
+query not returning results if inside SERVICE
+Extractor for a specific class of entities
+Eclipse and Jena
+Property description
+dbpedia data problems - old movie data pages almost empty
+is there any sort of verification done on the data?
+Downloading Links between DBpedia and Wikidata
+DBpedia ontology
+A quick analysis of the classes in the DBpedia ontology
+Bring your Blog, Wiki, WebApp to the Semantic Web?!
+Missing results on DBPedia end point
+Frequency of processing Wikipedia data dumps
+"Find in Sindice" link on DBpedia pages?
+Errors in rdfs:label values for pages with :
+WikipediaDumpParser fails during extractions
+A map of DBpedia 2016-04
+Do you collect in DBPedia the trace of edits from Wikipedia ?
+redirect files for all languages
+New namespace request
+T-box (DBpedia metamodel)
+Datasets loaded in DBpedia SPARQL endpoint
+Request namespace
+how to get the prefix results for a resource via sparql query?
+DBpedia query result is different in Jena ARQ
+Automating DBpedia queries with live data and abstracts
+new WP articles in DBPedia
+General schema for SPARQL endpoints
+Prefix Search API returns code 500 Internal Server Error
+Fact Ranking tool
+Error message when using the MappingBasedExtractor on Nippon_Broadcasting_System
+Filtering results from Dbpedia Lookup.
+dbprop:disambiguates
+Status of live.dbpedia
+Ontology for Dutch Wikipedia
+how to test if extraction of triples on a wikipedia page is working correctly?
+What's disjoint in the dbpedia ontology?
+Reg: GSoC 2017 Chatbot Project - Project Page
+DBpedia Update and Pending Changeover
+loading dbpedia benchmark
+Diffrence between URI, URIref and namespace URI?
+endpoint returning diff results - browser, jenasparqlservice
+Homepage Extractor Patch
+"live updating", tracking resource changes
+Transaction deadlock on dbpedia-live
+Extended Deadline :: ICEEE2013 :: IEEE :: Poland
+Linguistic popularity of a resource in Wikipedia and DBpedia
+OntologyProperty etc.
+mapping testing for non-English mappings
+values of "dbpedia-owl:wikPageDisambiguate" - how are they extracted
+GSoC 2016: Combining DBpedia and Topic Modelling
+dbpedia content
+Redirects Dataset
+extraction
+DBPedia in something other than Virtuoso?
+Problems with config.properties and mapping definitions
+dbpedia extraction errors for links within texts
+DBpedia Attribution
+=?utf-8?q?object_property_extractor_should_c?= =?utf-8?b?aGVja8KgwqDCoMKgcmRmczpyYW5nZQ==?=
+7th Workshop on Linked Data on the Web (LDOW2014)
+Test Bulgarian mappings
+Dbpedia Spotlight as client.
+uri in french i18n version
+alternative dbpedia interface
+Date of modification
+SPARQL dbpedia returned data
+Dbpedia-discussion Digest, Vol 36, Issue 4
+lookup.dbpedia.org down?
+ImageExtractor getImageUrl
+Consultation: DBpedia Spotlight Internationalization
+WORLDCOMP and Hamid Arabnia
+Problem with http://dbpedia.org/ontology/wikiPageWikiLink
+errors in the page "Datasets loaded into the public DBpedia SPARQL Endpoint"
+FYI: Get Semantic with DBPedia and ActiveRDF
+Reminder skos:subject is deprecated categories at dbpedia.org/resource/category:
+OpenCorporates
+Problem installing dbpedia software
+Links which are showing 404 Error
+Community coordination action: DBpedia reproducubility / Dockerization
+question with dbpedia Virtuoso endpoint
+The last extension for TAEECE2014 deadline!
+Category Node?
+JSONP callback REST
+indexing DBpedia with Swoogle; biological data in DBpedia
+DBpedia Live and articles deleted from Wikipedia
+Question about languages
+range of foaf:homepage in DBpedia - document please, not anyURI literals
+how mapping DBpedia
+Inquiry about the path length of DBPedia datasets
+Table Extractor
+MappingsWiki Update
+=?utf-8?q?World=E2=80=99s_Biggest_Computer_C?= =?utf-8?q?onference_WORLDCOMP_is_Cancelled?=
+related property values
+literatur extraction
+Lexicalizations Dataset
+Become an editor
+what is loaded into dbpedia?
+Getting amount of links between DBPedia instances (page_links_en.nt)
+Linking To Items From Wikipedia Lists
+request for Russian namespace (ru)
+Tools, API or Web service to get DBpedia URI of entity from keywords
+Important Change to HTTP semantics re. hashless URIs
+Ontology2 Releases RDF Dump of Nearly 1, 000, 000 Free Images
+Issues with mappings tooling
+how can i contribute to dbpedia ???
+When will be the next release of DBPedia 3.8?
+COUNT(*) with ORDER BY
+Inferencing over Geonames hierarchies?
+Inter-language links (WikiData)
+Like DBpedia? You'll love :BaseKB
