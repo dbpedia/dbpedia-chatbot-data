@@ -1,0 +1,2 @@
+mongoimport -d dbpedia --drop -c mailing-lists --jsonArray < data/dbpedia-discussion-archive-questions.json
+mongo dbpedia mbox_export.js --quiet > data/dbpedia-discussion-archive-dataset.csv
